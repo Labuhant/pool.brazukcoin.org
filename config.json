@@ -60,7 +60,7 @@
             "maxJump": 100
         },
         "fixedDiff": {
-            "enabled": false,
+            "enabled": true,
             "addressSeparator": "."
         },
         "shareTrust": {
@@ -98,7 +98,7 @@
         "enabled": true,
         "interval": 30,
         "depth": 10,
-        "poolFee": 0.5,
+        "poolFee": 0,
         "devDonation": 0,
         "coreDevDonation": 0,
         "extraFeaturesDevDonation":0
